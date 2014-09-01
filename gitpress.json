@@ -1,0 +1,51 @@
+{
+    "docs": {
+        "关于我的博客": "README.md",
+        "css": "posts/css",
+        "Javascript": "posts/Javascript",
+        "html": "posts/html",
+        "生活随笔": "posts/life",
+        "不错的资源": "posts/goodresources",
+        "其他": "posts"
+    },
+    "perpage": 10,
+    "template": "greyshade",
+    "types": {
+        "\\.(md||markdown)$": "markdown",
+        "\\.(js||css||json)$": "code",
+        "\\.html?$": "html",
+        ".*": "text"
+    },
+    "title": "郑俊伟的博客",
+    "comment": "on",
+    "domain_alias": [
+        "blog.zhengjunwei.com"
+    ],
+    "friends": [
+        {
+            "name": "CSS探索之旅",
+            "title": "飘零雾雨的博客",
+            "url": "http://blog.doyoe.com/"
+        },
+        {
+            "name": "奇舞团",
+            "title": "奇舞团官方博客",
+            "url": "http://www.75team.com"
+        },
+        {
+            "name": "typeof.net",
+            "title": "typeof.net",
+            "url": "http://typeof.net/"
+        },
+        {
+            "name": "never-online",
+            "title": "rank's technical notes",
+            "url": "http://never-online.net/blog/"
+        },
+        {
+            "name": "aoao",
+            "title": "样式之美 | 没落的角落",
+            "url": "http://www.aoao.org.cn/"
+        }
+    ]
+}
