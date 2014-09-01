@@ -1,13 +1,5 @@
 {
-    "docs": {
-        "关于我的博客": "README.md",
-        "css": "posts/css",
-        "Javascript": "posts/Javascript",
-        "html": "posts/html",
-        "生活随笔": "posts/life",
-        "不错的资源": "posts/goodresources",
-        "其他": "posts"
-    },
+    "docs": ["README.md","docs"],
     "perpage": 10,
     "template": "greyshade",
     "types": {
